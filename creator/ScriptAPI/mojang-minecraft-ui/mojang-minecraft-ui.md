@@ -35,7 +35,7 @@ form.show(players[0]).then((response) => {
 });
 ```
 
-NOTE: A dependency reference to this module must be declared within the `manifest.json` file of your behavior pack.  The module identifier UUID is `2BD50A27-AB5F-4F40-A596-3641627C635E`. 
+NOTE: A dependency reference to this module must be declared within the `manifest.json` file of your behavior pack.  The module identifier UUID is `2bd50a27-ab5f-4f40-a596-3641627c635e`. 
 
 For example: 
 
